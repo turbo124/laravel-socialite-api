@@ -7,7 +7,7 @@ use Illuminate\Console\AppNamespaceDetectorTrait;
 use Illuminate\Filesystem\Filesystem;
 use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Input\InputArgument;
-use Illuminate\Foundation\Composer;
+use Illuminate\Support\Composer;
 
 class SocialiteMakeCommand extends Command
 {
