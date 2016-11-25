@@ -1,6 +1,6 @@
 {
-    "name": "ray-cheng/laravel-socialite-api",
-    "description": "package for laravel 5.1 retrieve user datas serve for restful api authentication.",
+    "name": "turbo124/laravel-socialite-api",
+    "description": "package for laravel 5.2 retrieve user datas serve for restful api authentication.",
     "license": "MIT",
      "keywords": [
         "laravel",
